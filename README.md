@@ -14,7 +14,8 @@ preparando a base para futuros modelos de Inteligência Artificial e auxiliando 
 
 ## Contexto do projeto
 
-Este exercício de preparação de dados faz parte da formação [MCIO + Leega](https://www.linkedin.com/company/mciobrasil/posts/)
+Este exercício de preparação de dados faz parte
+da formação [MCIO + Leega](https://www.linkedin.com/company/mciobrasil/posts/)
 para Engenharia de Dados realizada entre 06 de julho de 2026 a 06 de novembro de 2026. A formação inclui:
 
 1. Fundamentos de dados (12 horas)
@@ -22,6 +23,9 @@ para Engenharia de Dados realizada entre 06 de julho de 2026 a 06 de novembro de
 3. Engenharia e Arquitetura de dados (20 horas)
 4. Visualização e storytelling de dados (20 horas)
 
+### Origem dos dados:
+
+Os dados são do Kaggle: [Cancer_dataset.csv](https://www.kaggle.com/datasets/duygujones/cancer-dataset-csv/data)
 
 ---
 
