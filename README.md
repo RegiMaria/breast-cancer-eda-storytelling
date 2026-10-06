@@ -100,10 +100,15 @@ Estrutura do Repositório
 
 ## Certificados
 
-## 📜 Certificados
 
 | 01 - Fundamentos de Dados | 02 - Preparação de Dados |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/bb205a10-f5ad-40c8-bf23-c25679b6f348" width="400" alt="Fundamentos de dados"/> | <img src="https://github.com/user-attachments/assets/1dea7381-fbc8-46f5-9a6c-1a2168252c18" width="400" alt="Preparação de dados"/> |
 | **03 - Engenharia e Arquitetura de Dados** | **04 - Visualização e Storytelling de Dados** |
 | <img src="https://github.com/user-attachments/assets/0f39db7b-e989-4bca-b3c8-97ff8a95d845" width="400" alt="Engenharia e Arquitetura de dados"/> | <img src="https://github.com/user-attachments/assets/552c0abc-f112-448c-995d-0671432798f6" width="400" alt="Visualização e Storytelling de dados"/> |
+
+
+**Primeiro projeto realizado durante a formação MCIO + Leega:**
+
+- [datawrangling-fraud-pca](https://github.com/RegiMaria/datawrangling-fraud-pca)
+Detecção de Fraude em Cartão de Crédito - Data Wrangling & PCA
